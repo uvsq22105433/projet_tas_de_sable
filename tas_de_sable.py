@@ -5,8 +5,3 @@
 # Awena SALIC
 # https://github.com/awenax/projet_tas_de_sable
 ##################################
-from os import sync
-
-
-
-sync()
